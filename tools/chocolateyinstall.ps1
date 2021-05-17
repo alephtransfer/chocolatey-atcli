@@ -10,9 +10,9 @@ $packageArgs = @{
 
   softwareName  = 'atcli*' #part or all of the Display Name as you see it in Programs and Features. It should be enough to be unique
 
-  checksum      = 'FA74C9290436BE87A34C73E3C7B7C6CE783253588D15A6C85504A15AD4705EC9'
+  checksum      = '64571E22AD2BF32B2BEFEFD554A63A58A092D77FA3803DAAFDB2D99F8DB518FF'
   checksumType  = 'sha256' #default is md5, can also be sha1, sha256 or sha512
-  checksum64    = 'FA74C9290436BE87A34C73E3C7B7C6CE783253588D15A6C85504A15AD4705EC9'
+  checksum64    = '64571E22AD2BF32B2BEFEFD554A63A58A092D77FA3803DAAFDB2D99F8DB518FF'
   checksumType64= 'sha256' #default is md5, can also be sha1, sha256 or sha512
 
   # MSI
