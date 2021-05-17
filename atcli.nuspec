@@ -11,7 +11,8 @@
     <copyright>(c) 2010-2021 Aleph Archives. All rights reserved</copyright>
     <licenseUrl>https://alephtransfer.com/license/atcli/LICENSE.txt</licenseUrl>
     <docsUrl>https://alephtransfer.com/doc/atcli.html</docsUrl>
-    <bugTrackerUrl>https://github.com/alephtransfer/homebrew-atcli/issues</bugTrackerUrl>
+    <bugTrackerUrl>https://github.com/alephtransfer/chocolatey-atcli/issues</bugTrackerUrl>
+    <projectSourceUrl>https://github.com/alephtransfer/chocolatey-atcli</projectSourceUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <tags>mft transfer secure high speed file transfer</tags>
     <summary>High-speed secure transfer service for large files and directories</summary>
