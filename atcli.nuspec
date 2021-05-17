@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>atcli</id>
+    <version>1.0.3</version>
+    <title>AlephTransfer CLI (Install)</title>
+    <authors>Aleph Archives</authors>
+    <owners>Aleph Archives</owners>
+    <projectUrl>https://alephtransfer.com/</projectUrl>
+    <iconUrl>https://alephtransfer.com/icons/atcli_logo.png</iconUrl>
+    <copyright>(c) 2010-2021 Aleph Archives. All rights reserved</copyright>
+    <licenseUrl>https://alephtransfer.com/license/atcli/LICENSE.txt</licenseUrl>
+    <docsUrl>https://alephtransfer.com/doc/atcli.html</docsUrl>
+    <bugTrackerUrl>https://github.com/alephtransfer/homebrew-atcli/issues</bugTrackerUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <tags>mft transfer secure high speed file transfer</tags>
+    <summary>High-speed secure transfer service for large files and directories</summary>
+    <description>This will download and silently install the entire Aleph Transfer CLI.</description>
+    <!-- <releaseNotes>__REPLACE_OR_REMOVE__MarkDown_Okay</releaseNotes> -->
+    <!-- =============================== -->      
+  </metadata>
+  <files>
+    <file src="tools\install\**" target="tools" />
+  </files>
+</package>

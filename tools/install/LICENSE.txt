@@ -1,0 +1,77 @@
+﻿From: https://alephtransfer.com/license/atcli/LICENSE.pdf
+
+LICENSE
+
+ALEPHTRANSFER CLI
+            
+Copyright © 2010-2021 ALEPH ARCHIVES Ltd. All rights reserved       
+https://aleph-archives.com/
+
+End-User License Agreement
+
+Terms of Use
+
+Agreement to these Terms and Conditions of Use
+
+BY DOWNLOADING AND INSTALLING THE SOFTWARE, YOU ARE CONSENTING TO BE BOUND BY AND ARE BECOMING A PARTY TO THIS AGREEMENT. IF YOU DO NOT AGREE TO ALL OF THE TERMS OF THIS AGREEMENT, YOU MAY NOT INSTALL OR USE THE SOFTWARE OR IT'S CONTENT INCLUDED IN THE SETUP PROGRAM. IF THE COPY OF THE SOFTWARE YOU RECEIVED WAS ACCOMPANIED BY A PRINTED OR OTHER FORM OF "HARD-COPY" MEDIA WHOSE END USER LICENSE AGREEMENT TERMS VARY FROM THIS AGREEMENT, THEN THE HARD-COPY END USER LICENSE AGREEMENT GOVERNS YOUR USE OF THE SOFTWARE.
+
+IMPORTANT: READ CAREFULLY
+
+This ALEPH ARCHIVES Ltd End-User License Agreement ("EULA") is a legal agreement between ALEPH ARCHIVES Ltd ("Aleph Archives" "We" "Us" or "Our")  and you (either an individual or a single entity) for the downloading and using of ATCLI software, including: computer software, programs, source code, binaries, objects including their API's, as well as any images, photographs, templates, animations, video, audio, music, text, and "plugins" incorporated into the software, the accompanying printed materials, and "online" or electronic documentation ("SOFTWARE PRODUCT"). By installing, downloading, creating a back-up, or otherwise using the SOFTWARE PRODUCT, you agree to be bound by the terms of this EULA. If you do not agree to the terms of this EULA, do not install or use the SOFTWARE PRODUCT; you must destroy the SOFTWARE PRODUCT and any copies thereof.
+
+
+1. Single Copy Software License and Trademarks
+
+(a) The Software is owned by ALEPH ARCHIVES Ltd and copyrighted and protected by law and international treaty. You may install and use this Software on a single computer for your internal use only, unless specifically licensed to do otherwise by ALEPH ARCHIVES Ltd.
+(b) All rights not expressly granted by us in this Agreement are reserved. Without limiting the generality of the previous sentence, you may not (i) copy the Software (or any part of the Software), (ii) modify the Software or separate out any of its components for use with other software, (iii) transfer, lend, loan, lease, rent, sell the Software to another person (except that you may transfer the software in connection with a transfer of the computer on which it is installed), (iv) decompile, disassemble, or otherwise reverse engineer or attempt to discover any underlying proprietary information of the Software, or (v) use the Software in any way that violates any applicable federal, state, local, or international law or regulation.
+(c) You further acknowledge that the "ATCLI Software" and "ALEPH ARCHIVES" are our trademarks and that this license does not grant you any right whatsoever in these trademarks. For example, you have no right to use, copy, modify, or publicly display these trademarks, and you may not remove, alter, or delete such trademarks as are affixed by Us to reports, documents, templates, screen shots, etc. generated through use of the Software.
+(d) You understand that the Software is licensed to you and not sold. The Software is owned by ALEPH ARCHIVES Ltd who retains title to all copies of the Software and all intellectual property rights contained within or embodied by the Software, including without limitation copyrights, licensing rights, patents, trademarks, trade secrets, design rights, engineering rights, moral rights, and any other intellectual property rights. These rights are not transferred as part of this Agreement.
+(e) Finally, you may not assist or allow anyone to do anything that this Agreement prohibits you from doing.
+
+2. Updates to the Software
+
+You acknowledge that from time to time ALEPH ARCHIVES may issue upgraded versions of the Software but that it has no obligation whatsoever to provide you with an upgraded version nor to inform you of the existence thereof. If you are granted the right to upgrade your current version of the Software, you consent to and agree to be bound by the current Terms of Use if you continue to use the Software after the effective update you acknowledge and agree that the terms and conditions of this Agreement will apply to all such upgraded versions. Any upgraded version of the Software will be subject to this Agreement.
+
+3. Updates to the Terms of Use
+
+You acknowledge that from time to time ALEPH ARCHIVES may modify the terms governing your use of the Software. Notice of such updates will be provided by posting the effective date on the Software Terms of Use appearing on ALEPH ARCHIVES's website (www.aleph-archives.com). You consent to and agree to be bound by the current Terms of Use if you continue to use the Software after the effective update of such Terms of Use.
+
+4. Disclaimers
+
+IT IS UNDERSTOOD BY YOU THAT THE SOFTWARE PRODUCT HAS NOT BEEN THOROUGHLY TESTED AND MAY CONTAIN DEFECTS AND THAT THE AUTHOR MAKES NO EXPRESS OR IMPLIED REPRESENTATIONS OR WARRANTIES WHATSOEVER REGARDING ITS USE, PERFORMANCE, OPERATION, APPLICATIONS PORTABILITY BETWEEN SUBSEQUENT VERSIONS AND FINAL VERSION OR SUPPORT. BY WAY OF EXAMPLE, BUT NOT OF LIMITATION, THE AUTHOR MAKES NO REPRESENTATIONS OR WARRANTIES OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. IT IS FURTHER UNDERSTOOD BY YOU THAT NO COMMITMENT EXISTS ON THE PART OF THE AUTHOR TO PROVIDE THE SOFTWARE PRODUCT IN A CONDITION SUITABLE FOR USE BY YOU. YOU ACKNOWLEDGE THAT THE SOFTWARE PRODUCT IS DELIVERED ON AN "AS IS" BASIS AND THAT YOUR USE OF THE SOFTWARE PRODUCT SHALL BE AT YOUR SOLE RISK. YOU ALSO AGREE THAT, TO THE EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY (i) DIRECT, SPECIAL, INDIRECT, INCIDENTAL OR CONSEQUENTIAL DAMAGES SUCH AS, BUT NOT LIMITED TO, LOSS OF DATA, LOST PROFITS, OR EXEMPLARY OR PUNITIVE DAMAGES, WHETHER OR NOT FORESEEABLE AND EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, OR (ii)ANY OTHER CLAIM, DEMAND OR DAMAGES WHATSOEVER RESULTING FROM OR ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT OR THE DELIVERY, USE OR PERFORMANCE OF THE SOFTWARE PRODUCT, OR CONTENT DISTRIBUTED THROUGH THE SOFTWARE PRODUCT,WHETHER IN AN ACTION IN CONTRACT OR TORT, INCLUDING NEGLIGENCE
+
+5. Limitation of Liability
+
+(a) You expressly acknowledge and agree that in no event shall ALEPH ARCHIVES, its officers, directors, shareholders, affiliates or licensors be liable for any special, punitive, incidental, consequential or exemplary damages, including but not limited to damages for loss of use, computer failure or malfunction, loss of goodwill, lost profits, loss of data or information, unauthorized access to and/or loss of your personally identifiable information, or any and all other commercial damages and losses, arising out of or in connection with the Software or its use or this Agreement, even if ALEPH ARCHIVES, its officers, directors, shareholders, affiliates or licensors have been advised of the possibility of such damages. Some states do not allow the exclusion or limitation of incidental or consequential damages, so the above limitation or exclusion may not apply to you.
+(b) ALEPH ARCHIVES is not responsible for any problems or technical malfunction of any telephone network or lines, computer online systems, servers or providers, computer equipment, software, failure of any email or players due to technical problems or traffic congestion on the Internet or on any the Software, including any injury or damage to users or to any person’s computer related to or resulting from participation or downloading materials in connection with the Software. Under no circumstances shall ALEPH ARCHIVES be responsible for any loss or damage, including personal injury or death, resulting from use of the Software or from the conduct of any users of the Software, whether online or offline.
+(c) If you are dissatisfied with any remotely hosted forum material, or with any of ALEPH ARCHIVES's terms and conditions, your sole and exclusive remedy is to discontinue using the Software. In addition, you release ALEPH ARCHIVES and its affiliates from any damages that you incur, and agree not to assert any claims against them, arising from your use of the Software or the furniture of related services.
+(d) You acknowledge and agree that the provisions under this Agreement that limit liability, disclaim warranties, or exclude consequential damages or other damages or remedies are essential terms of this Agreement that are fundamental to the parties’ understanding regarding allocation of risk, and all of these provisions are also made on behalf of third parties that are authorized by ALEPH ARCHIVES to distribute the Software and shall inure to their benefit. Accordingly, such provisions shall be severable and independent of any other provisions and shall be enforced as such, regardless of any breach or other occurrence hereunder. Without limiting the generality of the foregoing, you agree that all limitations of liability, disclaimers of warranties, and exclusions of consequential damages or other damages or remedies shall remain fully valid, effective and enforceable in accordance with their respective terms, even under circumstances that cause any exclusive remedy under this Agreement to fail of its essential purpose.
+(e) You acknowledge and agree that any files generated using the software product are  your sole property and that ALEPH ARCHIVES is not held responsible from any damage you incur.
+
+
+
+6. Intellectual Property
+(a) Subject to the License granted hereunder, all title, ownership, intellectual property rights and all other rights and interests in and to the Software, the related printed materials, and any copies of the Software are owned by Aleph Archives.
+(b) You understand that the Software is licensed to you and not sold. The Software is owned by Aleph Archives who retains title to all copies of the Software and all intellectual property rights contained within or embodied by the Software, including without limitation copyrights, licensing rights, patents, trademarks, trade secrets, design rights, engineering rights, moral rights, and any other intellectual property rights. These rights are not transferred as part of this Agreement;
+(c) Without prejudice to the foregoing, it is expressly agreed that any output file (containing the archived data and metadata), which is any file generated by you as a result of you using the Software shall belong to you, even after the termination of this Agreement.
+(d) All rights not expressly granted by Aleph Archives in this Agreement are reserved. Without limiting the generality of the previous sentence, you may not (i) copy the Software (or any part of the Software), (ii) modify the Software or separate out any of its components for use with other software, (iii) transfer, lend, loan, lease, rent, sell the Software to another person (except that you may transfer the Software in connection with a transfer of the computer on which it is installed), (iv) decompile, disassemble, or otherwise reverse engineer or attempt to discover any underlying proprietary information of the Software, or (v) use the Software in any way that violates any applicable federal, state, local, or international law or regulation.
+(e) The Software may include copy protection technology to prevent the unauthorized copying of the Software or may require original media for use of the Software on the computer.  You acknowledge that it is illegal to make unauthorized copies of the Software or to circumvent any copy protection technology included in the Software;
+(f) You further acknowledge that the Software and, in particular, its ATCLI interface, as well as "Aleph Archives" are trademarks which are owned exclusively by Aleph Archives and that the License does not grant you any right whatsoever in these trademarks. For example, you have no right to use, copy, modify, or publicly display these trademarks, and you may not remove, alter, or delete such trademarks as are affixed by Aleph Archives to reports, documents, templates, screen shots, etc. generated through use of the Software;
+(g) Finally, you may not assist or allow anyone to do anything that this Agreement prohibits you from doing.
+
+
+
+7. Termination
+
+ALEPH ARCHIVES may terminate this Agreement at any time and without prior notice if you violate it. You must destroy all copies of the Software in your possession or control promptly upon termination. The termination of this Agreement by ALEPH ARCHIVES for whatever reason will not limit any of ALEPH ARCHIVES's other rights or remedies under this Agreement or at law or in equity. Any provision of this Agreement that by its sense and context is intended to survive termination of this Agreement will survive termination.
+
+The product software versions including but not limited to (i) test copies sent to partners, (ii) trial versions available for download to the public, (iii) any version of the software product that has a limited usage time. may carry an expiry date. Any usage of the software product after the expiry date reported to Aleph Archives will be deemed violation to this agreement.
+
+
+8. Governing Law
+
+This Agreement, the obligations hereunder and any and all claims relating to the Software or any related services provided by ALEPH ARCHIVES shall be governed, interpreted and construed in accordance with the substantive laws of Switzerland, without regard to conflict of laws principles thereof.
+
+
+9. Jurisdiction
+Any dispute, controversy or claim arising out of or in relation with this Agreement including the validity, invalidity, breach or termination thereof, shall be submitted to the exclusive jurisdiction of the ordinary courts of Lausanne, Switzerland, with reserve of appeal to the Swiss Federal Tribunal.
