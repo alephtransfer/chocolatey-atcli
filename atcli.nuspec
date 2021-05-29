@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>atcli</id>
-    <version>1.0.3</version>
+    <version>1.0.4</version>
     <title>AlephTransfer CLI (Install)</title>
     <authors>Aleph Archives</authors>
     <owners>Aleph Archives</owners>
