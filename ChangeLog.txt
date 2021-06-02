@@ -1,0 +1,7 @@
+1.0.5
+    - note: "check token size validity before performing uploads"
+    - note: "support Okta and Auth0 SAML providers"
+
+1.0.4
+    - note: "Print default .ini config path on startup"
+    - note: "Add --debug to show/hide stacktrace in case of errors"
