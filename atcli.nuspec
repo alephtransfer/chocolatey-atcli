@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>atcli</id>
-    <version>1.0.4</version>
+    <version>1.0.6</version>
     <title>AlephTransfer CLI (Install)</title>
     <authors>Aleph Archives</authors>
     <owners>Aleph Archives</owners>
@@ -16,9 +16,7 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <tags>mft transfer secure high speed file transfer</tags>
     <summary>High-speed secure transfer service for large files and directories</summary>
-    <description>This will download and silently install the entire Aleph Transfer CLI.</description>
-    <!-- <releaseNotes>__REPLACE_OR_REMOVE__MarkDown_Okay</releaseNotes> -->
-    <!-- =============================== -->      
+    <description>This will download and silently install the entire Aleph Transfer CLI.</description>    
   </metadata>
   <files>
     <file src="tools\install\**" target="tools" />
